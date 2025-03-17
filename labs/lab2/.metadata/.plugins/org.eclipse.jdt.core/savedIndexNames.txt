@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+/home/luana.lyz.araujo.rocha/git/laboratorio-2-coisa-luanalyz/.metadata/.plugins/org.eclipse.jdt.core
