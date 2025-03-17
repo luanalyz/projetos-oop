@@ -2,7 +2,7 @@ package br.edu.ufcg.computacao.p2lp2.coisa;
 /**
  * Classe que registra as quantidades de horas de internet que o aluno tem dedicado a determinada disciplina remota. 
  * 
- * @author Luana Lyz Araujo Rocha - 123110697
+ * @author Luana Lyz
  * */
 public class RegistroTempoOnline {
 	/**

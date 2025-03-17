@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * Classe que representa as notas da disciplina, sua média e as horas de estudo.
  * 
- * @author Luana Lyz Araujo Rocha - 123110697
+ * @author Luana Lyz
  */
 public class Disciplina {
 	/**

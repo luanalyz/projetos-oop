@@ -2,7 +2,7 @@ package br.edu.ufcg.computacao.p2lp2.coisa;
 /**
  * Classe que cria um resumo a partir do tema e resumo registrados.
  * 
- * @author Luana Lyz Araujo Rocha - 123110697
+ * @author Luana Lyz
  */
 public class RegistroResumos {
 	/**

@@ -3,7 +3,7 @@ package br.edu.ufcg.computacao.p2lp2.coisa;
 /**
  * Classe que registra a rotina de descanso do aluno.
  * 
- * @author Luana Lyz Araujo Rocha - 123110697
+ * @author Luana Lyz
  */
 public class Descanso {
 	/**
